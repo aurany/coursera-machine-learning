@@ -1,4 +1,4 @@
-name: machine_learning
+name: coursera_ml
 channels:
   - defaults
 dependencies:
